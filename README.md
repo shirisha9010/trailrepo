@@ -1,3 +1,6 @@
+[![CI](https://github.com/shirisha9010/trailrepo/actions/workflows/main.yml/badge.svg)](https://github.com/shirisha9010/trailrepo/actions/workflows/main.yml)
+
+
 # trailrepo
 # **Requirements**
 ## Introduction
